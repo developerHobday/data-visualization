@@ -1,6 +1,8 @@
 # Data Visualization
 
 # Seaborn
+[Notebook](./seaborn.ipynb)
+
 Trivia - sns are the initials of Samuel Norman Seaborn, a fictional character in the TV serial The West Wing.
 
 Basics
@@ -17,10 +19,12 @@ Categorical Plots
 
 Relational Plots
 * scatter plot
+* pair plot 
+* regression and residual plots
 * line plot 
-
+* joint plot 
 
 Future
 - Matplotlib
 - Bokeh
-
+- Basemap
